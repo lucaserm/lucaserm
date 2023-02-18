@@ -3,20 +3,17 @@
 </div>
 
 <div align="center">
-  <img width="600" height="100"  src="gifs/HelloWorld.gif">
-  <p> I'm Lucas Eduardo Reis Macedo, graduated in Systems Analysis and Development and a FULL STACK Dev</p>
+  <h3> I'm Lucas Macedo, undergraduate student in Computer Information Science and a FULL STACK Dev</h3>
 </div>
 
+ ##
 
 <div align="center"> 
   <h3>📈 GITHUB STATS</h3>
   <span>
     <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=lucaserm&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
     <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaserm&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
-    <br>
-    <img src="https://komarev.com/ghpvc/?username=ErnstBeckerNeto&label=Profile%20views&color=ff0043&style=flat">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ernstbeckerneto?color=ff0043&label=follow&logo=github&logoColor=fff">
-  </pan>
+  </span>
 </div>
 
   ##
@@ -50,7 +47,4 @@
   </span>
 <div>
 
-<br>
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
+ ##
