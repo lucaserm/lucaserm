@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3> I'm Lucas Macedo, undergraduate student in Computer Information Science and a FULL STACK Dev</h3>
+  <h3> I'm Lucas Macedo, graduated in Information and a FULL STACK Dev</h3>
 </div>
 
  ##
