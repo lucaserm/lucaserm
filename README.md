@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3> I'm Lucas Macedo, a FULL STACK Dev</h3>
+  <h3> I'm Lucas Macedo, graduating in Information Technology and a FULL STACK Dev</h3>
 </div>
 
  ##
@@ -23,7 +23,7 @@
   <span> 
     <a href="www.linkedin.com/in/lucaserm" target="_blank"><img height="28" src="https://img.shields.io/badge/LinkedIn-ff0043?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:lucasedumacedo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ff0043?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://instagram.com/meninodeinfo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff0043?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/omeninotech/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff0043?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </span>
 </div>
 
