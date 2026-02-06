@@ -6,15 +6,6 @@
   <h3> I'm Lucas Macedo, graduating in Information Technology and a FULL STACK Dev</h3>
 </div>
 
- ##
-
-<div align="center"> 
-  <h3>📈 GITHUB STATS</h3>
-  <span>
-    <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaserm&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
-  </span>
-</div>
-
   ##
 
 <div align="center">
